@@ -1,0 +1,31 @@
+<!--index.wxml-->
+<view class="container">
+
+
+<view class="section">
+  <view class="flex-wrp" style="height: 300px;flex-direction:column;">
+   
+    <view class="flex-item">
+   <button class="bt bc_paleGreen">记忆大师训练</button>
+   </view>
+    <view class="flex-item">
+      <view class="flex-wrp" style="flex-direction:row;">
+        <button class="bt bc_lime">词汇</button>
+        <button class="bt bc_plum">数字</button>
+      </view>
+    </view>
+    
+    <view class="flex-item ">
+      <view class="flex-wrp" style="flex-direction:row;">
+        <button class="bt bc_turquoise">扑克</button>
+        <button class="bt bc_khaki">套路</button>
+      </view>
+    </view>
+
+    <view class="flex-item">
+    <button class="bt bc_AliceBlue">排行榜</button>
+    </view>
+  </view>
+</view>
+
+</view>

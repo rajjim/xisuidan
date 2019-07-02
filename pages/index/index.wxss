@@ -1,0 +1,19 @@
+/**index.wxss**/
+.page-section{
+  margin-bottom: 20rpx;
+}
+.flex-wrp {display: flex;}
+.bc_lime {background:	Lime;width:150px; height: 150px;}
+.bc_plum {background: Plum;width:150px; height: 150px;}
+.bc_turquoise {background: Turquoise;width:150px; height: 150px;}
+.bc_khaki{background: Khaki;width:150px;height:150px;}
+.bc_mistyRose{background: MistyRose;width:150px;height:150px;}
+.bc_paleGreen{background: paleGreen;width:300px;height:100px;}
+.bc_PaleGoldenrod{background:PaleGoldenrod;width:300px;height:100px;}
+.bc_AliceBlued{background:AliceBlue;width:300px;height:100px;}
+.bt{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
